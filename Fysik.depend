@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1352984302 source:f:\dropbox\med3\proceduralprogramming\fysik\main.cpp
+	<iostream>
+	"include/fysik.hpp"
+
+1352903682 f:\dropbox\med3\proceduralprogramming\fysik\include\fysik.hpp
+	<cmath>
+	<iostream>
+	<cassert>
+	<list>
+	"core.hpp"
+	"dynamic.hpp"
+	"collision.hpp"
+	"shape.hpp"
+	"intersect.hpp"
+	"body.hpp"
+	"world.hpp"
+
+1353061537 f:\dropbox\med3\proceduralprogramming\fysik\include\dynamic.hpp
+
+1352983601 f:\dropbox\med3\proceduralprogramming\fysik\include\core.hpp
+
+1353062216 f:\dropbox\med3\proceduralprogramming\fysik\include\collision.hpp
+
+1352968957 f:\dropbox\med3\proceduralprogramming\fysik\include\shape.hpp
+
+1352968077 f:\dropbox\med3\proceduralprogramming\fysik\include\body.hpp
+
+1352801699 f:\dropbox\med3\proceduralprogramming\fysik\include\world.hpp
+
+1352987035 f:\dropbox\med3\proceduralprogramming\fysik\include\intersect.hpp
+
